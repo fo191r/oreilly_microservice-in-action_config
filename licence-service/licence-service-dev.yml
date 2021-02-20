@@ -13,5 +13,5 @@ spring:
     platform: postgres
     driver-class-name: org.postgresql.Driver
     url: jdbc:postgresql://localhost:5432/oreilly_database
-    username: 29342e75085c55bd2d5a77a37ebe6865bce701a55d5d29cff009da804417b0ec
-    password: 29342e75085c55bd2d5a77a37ebe6865bce701a55d5d29cff009da804417b0ec
+    username: {cipher} 29342e75085c55bd2d5a77a37ebe6865bce701a55d5d29cff009da804417b0ec
+    password: {cipher} 29342e75085c55bd2d5a77a37ebe6865bce701a55d5d29cff009da804417b0ec
